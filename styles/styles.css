@@ -75,6 +75,23 @@ p {
     font-family: 'Aboreto', cursive;
 }
 
+.btn {
+    background-color: #C58940;
+    color: black;
+    border-color: #C58940;
+}
+
+
+.btn:hover {
+    color: white;
+    background-color: #36252C;
+    border-color: #36252C;
+}
+
+.join-btn {
+    margin-top: 30px;
+}
+
 
 #section-2 {
     max-width: 1770px;
